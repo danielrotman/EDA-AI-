@@ -1,4 +1,13 @@
-This project is an Exploratory Data Analysis (EDA) of the U.S. Data Job Market, focusing on salaries, geographic demand, and required skills for Data Scientist and Machine Learning Engineer roles.
-The analysis was conducted using a Jupyter Notebook with Pandas, NumPy (for conditional column creation), and Matplotlib for visualization. Key findings include a significant salary gap favoring the ML Engineer role over the Data Scientist role. 
-Geographically, the analysis shows that Remote work is the second most common job location, closely following the top U.S. metropolitan area of New York City. This highlights the increasing flexibility in the tech industry. Regarding work models, we analyzed the compensation disparity between Remote and In-Office positions. 
-Most critically, the skills analysis revealed that Python, SQL, and Machine Learning are the top three most requested skills by U.S. employers, emphasizing the need for strong fundamentals in both programming and data manipulation. To replicate the analysis, clone the repository and run the provided Jupyter Notebook containing all the code.
+# 📊 U.S. Data Science & ML Job Market Analysis (EDA)
+
+## Project Overview
+This project performs an **Exploratory Data Analysis (EDA)** on the U.S. tech job market, specifically focusing on roles like **Data Scientist** and **Machine Learning Engineer**.
+
+## 🚀 Key Insights
+* **The Salary Gap:** Machine Learning Engineers command significantly higher average salaries.
+* **Top Skills:** Python, SQL, and Machine Learning are the most sought-after skills.
+* **Remote Work:** Remote positions are the second most common location after NYC.
+
+## 🛠️ Technologies
+* **Python** (Pandas, NumPy, Matplotlib)
+* **Jupyter Notebook**
