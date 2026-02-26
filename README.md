@@ -11,3 +11,4 @@ This project performs an **Exploratory Data Analysis (EDA)** on the U.S. tech jo
 ## 🛠️ Technologies
 * **Python** (Pandas, NumPy, Matplotlib)
 * **Jupyter Notebook**
+<img width="1065" height="687" alt="image" src="https://github.com/user-attachments/assets/03a321ac-e149-49ad-be3d-357c63e5bfc1" />
